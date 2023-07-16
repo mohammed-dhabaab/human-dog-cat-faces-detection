@@ -1,11 +1,9 @@
 [Add effective prject logo or banner]: #
-<p align="center">
-  <img src="" alt="project logo" />
-</p>
+
 
 
 [Choose a self-explaining name for your project.]: #
-<p align="center">Human, Dog and Cat Faces Detection</p>
+<h1 align="center">Human, Dog and Cat Faces Detection</h1>
 
 [Add short description (one sentance)]: #
 
