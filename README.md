@@ -9,7 +9,6 @@
 
 
 ## 📂Table of Contents
-- [�Table of Contents](#table-of-contents)
 - [📋Project Description](#project-description)
 - [📊Features](#features)
 - [⛏️Built Using](#️built-using)
@@ -51,6 +50,7 @@ dog_cascade = cv2.CascadeClassifier('models\dog-model\haarcascade_frontalface_al
 
 ## ✍Authors
 - [@Afnan-Algogandi](github.com/afnanAlgogandi)
+- [@Mariyyah-Samarin](https://github.com/Mariyyahes)
 - [@Mohammed-Dhabaab](github.com/mohammed-dhabaab)
 
 
